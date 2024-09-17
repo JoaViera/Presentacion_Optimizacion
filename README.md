@@ -9,5 +9,5 @@ Test: Ahi se realizan 3 ejemplos, el primero que realice sobre datos aleatorios 
 Recomiendo leer las cosas en este orden: 
 
 1) Ver las funciones en src/GKA.jl , y si tiene alguna duda sobre alguna funcion en particular ir a GKA_development.ipynb donde detallo mas sobre cada funcion, puede ser que algunas cosas esten distintas porque al ir realizando test le agregue cosas a las funciones.
-2) 
-3) Ver los test en este orden, random_dataset, iris_dataset y wine_dataset.
+   
+2) Ver los test en este orden, random_dataset, iris_dataset y wine_dataset.
